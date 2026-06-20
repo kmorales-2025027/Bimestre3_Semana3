@@ -1,0 +1,1 @@
+export const PORCENTAJE_IVA: number = 0.12 // 12 %
